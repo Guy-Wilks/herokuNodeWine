@@ -1,0 +1,13 @@
+{
+  "name": "webDevVer",
+  "version": "1.0.0",
+  "dependencies": {
+    "async": "^2.6.1",
+    "express": "^4.16.3",
+    "mssql": "^4.2.1",
+    "request": "^2.88.0",
+    "res": "^0.4.0",
+    "sql": "^0.78.0",
+    "tedious": "^2.6.4"
+  }
+}
